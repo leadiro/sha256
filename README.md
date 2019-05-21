@@ -1,8 +1,12 @@
 # sha256
-SHA256 encrypt the lines in a file outputing to stdout
+SHA256 encrypt the lines in a file outputting to stdout.
 
-Windows (sha256.exe) and macOS (sha256) binaries included
+There are two binaries distributed in this repo as well as source:
 
-```
-sha256 in.txt > out.txt
-```
+## sha256
+
+
+File | Purpose | Usage
+--- | --- | ---
+sha256 | macOS binary | ```sha256 infile.txt > outfile.txt```
+sha256.exe | Windows binary | ```sha256 infile.txt > outfile.txt```
