@@ -3,9 +3,6 @@ SHA256 encrypt the lines in a file outputting to stdout.
 
 There are two binaries distributed in this repo as well as source:
 
-## sha256
-
-
 File | Purpose | Usage
 --- | --- | ---
 sha256 | macOS binary | ```sha256 infile.txt > outfile.txt```
